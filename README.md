@@ -74,6 +74,3 @@ src/uninter/Principal.java
 
 Este é um projeto de aprendizagem desenvolvido em **2022**. Os arquivos compilados não são versionados; o repositório mantém apenas o código-fonte necessário para estudo e execução.
 
-## Licença
-
-Consulte o arquivo [LICENSE](LICENSE).
